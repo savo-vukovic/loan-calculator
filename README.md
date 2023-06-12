@@ -1,1 +1,1 @@
-# locan-calculator
+# loan-calculator
